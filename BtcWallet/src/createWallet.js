@@ -5,10 +5,17 @@ const bitcoin = require('bitcoinjs-lib')
 
 //definir a rede
 //bitcoin - rede principal -mainnet
+//const network = bitcoin.networks.bitcoin
+
 //testnet - rede de teste - testnet
 const network = bitcoin.networks.testnet
 
 //derivação de carteiras HD
+
+//mainnet
+//const path = `m/49'/0'/0'/0`
+
+//testnet
 const path = `m/49'/1'/0'/0`
 
 //Criando o mnemonic para a seed (palavras de senha)
