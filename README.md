@@ -1,2 +1,2 @@
-# dio-wallet
- Criando e utilizando uma wallet com a DIO
+# Dio-Wallet
+ Criando e utilizando uma wallet com a DIO!
